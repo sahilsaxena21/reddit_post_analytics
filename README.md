@@ -2,7 +2,7 @@
 
 This project was part of a course assignment.
 
-The objectives of this project was to:
+The objectives of this project were as follows:
 1) Collect unstructured data from reddit.com
 2) Perform pre-processing
 3) Perform exploratory data analysis
