@@ -1,4 +1,4 @@
-# sentiment_analysis_reddit
+# reddit_post_analytics
 
 This project was part of a course assignment.
 
