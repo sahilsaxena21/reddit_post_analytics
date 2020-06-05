@@ -1,4 +1,4 @@
-# reddit_post_analytics
+# Reddit Post Analytics
 
 This project was part of a course assignment.
 
