@@ -1,6 +1,6 @@
 # Social Media Analytics on Reddit Posts
 
-## Define Problem
+## Defining the Problem
 
 We frame a hypothetical business problem where a social media brand wants to improve user engagement. More specificallly, the number of posts read per session. Findings from user surveys has revealed that searchability of posts plays an influential role in this metric. This means that users that are able to find content readily, are likely to visit and read more posts per session. 
 
