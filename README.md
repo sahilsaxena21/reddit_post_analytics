@@ -1,4 +1,4 @@
-# Social Media Analytics on Reddit Posts
+# Social Media Analysis on Reddit Posts
 
 ## Defining the Problem
 
